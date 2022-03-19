@@ -10,7 +10,7 @@ spring:
     hibernate:
       ddl-auto: update
   datasource:
-    url: jdbc:mysql://localhost:3306/clase7
+    url: jdbc:mysql://localhost:3306/colearning
     username: root
     password: root
     driver-class-name: com.mysql.cj.jdbc.Driver
